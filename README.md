@@ -8,7 +8,7 @@ The Spring Camel/ActiveMQ Starter is a Spring Boot Auto-configuration library, s
 
 ```xml
 <dependency>
-  <groupId>com.shameer</groupId>
+  <groupId>com.github.yshameer</groupId>
   <artifactId>spring-camel-activemq-starter</artifactId>
   <version>${spring.camel.activemq.starter.version}</version>
 </dependency>

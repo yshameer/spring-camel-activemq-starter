@@ -1,4 +1,4 @@
-package com.shameer.spring.camel.activemq;
+package com.github.yshameer.spring.camel.activemq;
 
 import lombok.extern.slf4j.Slf4j;
 import org.apache.activemq.ActiveMQConnectionFactory;

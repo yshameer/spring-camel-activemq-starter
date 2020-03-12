@@ -1,4 +1,4 @@
-package com.shameer.spring.camel.activemq;
+package com.github.yshameer.spring.camel.activemq;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.context.annotation.Bean;
